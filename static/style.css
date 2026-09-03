@@ -1,12 +1,12 @@
 body{
-    background-color: cornflowerblue;
+    background-color: rgb(190, 164, 129);
 }
 
 .cartao{
     margin: auto;
     width: 400px;
     background-color: rgb(231, 231, 231);
-    border: 1px solid gray;
+    border: 1px solid rgb(192, 171, 151);
     border-radius: 10px;
     padding: 20px;
 }
@@ -19,12 +19,12 @@ input{
     width: 100%;
     margin-bottom: 15px;
     border-radius: 5px;
-    border: 1px solid gray;
+    border: 1px solid rgb(214, 182, 163);
     padding:7px;
 }
 
 button{
-    background-color: blueviolet;
+    background-color: rgb(121, 91, 58);
     color: white;
     border:none;
     width: 100%;
